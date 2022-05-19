@@ -112,7 +112,6 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 }
-exec_always --no-startup-id $HOME/.config/autostart/run_polybar.sh
 exec --no-startup-id nitrogen --restore
 
 
