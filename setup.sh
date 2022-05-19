@@ -1,4 +1,4 @@
 !#/bin/bash 
 echo 'configuring i3'
-cp -r i3 $HOME/.config/
+cp -r $HOME/Repo/dots/i3 $HOME/.config/
 
